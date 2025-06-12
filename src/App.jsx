@@ -1,7 +1,7 @@
 import './App.css'
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
-import { FaGithub, FaLinkedin, FaEnvelope, FaDownload, FaCode, FaRocket, FaHeart, FaMapMarkerAlt, FaPhone, FaBriefcase, FaGraduationCap, FaLanguage, FaCertificate, FaLaptopCode, FaRobot, FaMobileAlt, FaCheckCircle, FaPaperPlane, FaUser, FaSubject, FaComment } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaEnvelope, FaDownload, FaCode, FaRocket, FaHeart, FaMapMarkerAlt, FaPhone, FaBriefcase, FaGraduationCap, FaLanguage, FaCertificate, FaLaptopCode, FaRobot, FaMobileAlt, FaCheckCircle, FaPaperPlane, FaUser, FaBook, FaComments } from 'react-icons/fa'
 import { HiSparkles, HiLightningBolt, HiMail, HiCog, HiAcademicCap, HiCode, HiOfficeBuilding } from 'react-icons/hi'
 import { SiPython, SiReact, SiJavascript, SiTensorflow, SiFlutter, SiMongodb, SiNodedotjs, SiDjango } from 'react-icons/si'
 
