@@ -116,7 +116,7 @@ const About = () => {
                     key={category}
                     variants={itemVariants}
                     className="glass-morphism rounded-xl p-6 hover:glow-effect transition-all duration-300 tilt-effect group"
-                    whileHover={{ y: -10, scale: 1.02 }}
+                    whileHover={{ y: -10, scale: 1.03 }}
                     initial={{ opacity: 0, rotateY: -90 }}
                     animate={{ opacity: 1, rotateY: 0 }}
                     transition={{ delay: index * 0.1, duration: 0.6 }}
