@@ -22,7 +22,7 @@ export const portfolioData = {
     "Full Stack": ["MERN Stack", "MEAN Stack"],
     "Mobile Development": ["Android (Java)", "React Native", "Flutter"],
     "Databases": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
-    "Machine Learning": ["Scikit-learn", "TensorFlow", "Keras", "PyTorch", "NumPy", "Pandas"],
+    "Machine Learning": ["Scikit-learn", "TensorFlow", "Keras", "PyTorch", "NumPy", "Pandas","Seaborn"],
     "Tools & DevOps": ["Git", "Docker", "Linux", "VS Code", "Figma", "MATLAB"]
   },
 

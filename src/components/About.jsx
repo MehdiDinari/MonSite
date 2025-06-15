@@ -21,7 +21,7 @@ const About = () => {
   };
 
   const itemVariants = {
-    hidden: { opacity: 0, y: 50, scale: 0.9 },
+    hidden: { opacity: 0, y: 50, scale: 0.90 },
     visible: { 
       opacity: 1, 
       y: 0, 
